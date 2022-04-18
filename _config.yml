@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "velog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ik.bae"
+name                     : "ikbae"
 description              : "An amazing website."
 url                      : "https://ikbae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
